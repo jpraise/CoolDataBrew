@@ -30,3 +30,8 @@ Instagram, TikTok, Facebook, X 등의 SNS는 기본적으로 자막을 제공하
 건당 약 5초의 시간이 소요됩니다.  
 많은 동영상 및 음성 파일을 생성하지만, 자동 삭제 기능 덕분에 로컬 디스크는 깨끗하게 유지됩니다.
 
+## 주의 사항
+
+whisper api 사용을 위해 openai 버전을 다운그레이드 시켜야 함.
+pip install openai==0.28.0
+
