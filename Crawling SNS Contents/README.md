@@ -32,6 +32,10 @@ Instagram, TikTok, Facebook, X 등의 SNS는 기본적으로 자막을 제공하
 
 ## 주의 사항
 
-whisper api 사용을 위해 openai 버전을 다운그레이드 시켜야 함.
+Whisper API 사용을 위해 OpenAI 라이브러리의 버전을 다운그레이드해야 합니다.  
+터미널에서 아래 명령어를 실행하세요:
+
+```bash
 pip install openai==0.28.0
+```
 
