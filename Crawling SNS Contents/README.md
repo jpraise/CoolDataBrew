@@ -1,5 +1,6 @@
 # Crawling SNS Contents
 YouTube는 자막을 제공하고 있어, 손쉽게 자막 데이터를 활용할 수 있지만
+
 Instagram, TikTok, Facebook, X 와 같은 SNS들은 기본적으로 자막이 없는 경우가 많다.
 
 이때, 많은 양의 SNS 게시물들의 내용을 수집하고 싶어서 연구한 결과,
