@@ -88,12 +88,9 @@ python script.py
 
 ---
 
-### **📌 워드클라우드 예시 (`wordcloud_241219_kkma_hashtag.png`)**  
+### **📌 워드클라우드**  
 ✅ **빈도수가 높은 단어일수록 크게 표시됩니다.**  
 ✅ **해시태그가 별도로 보존되어 분석 결과에 반영됩니다.**  
-
-📌 **예제 워드클라우드**  
-<img src=r"C:\Users\User\Documents\업무\2023\DS\샤넬 워드클라우드 지원\wordcloud_241219_kkma_hashtag.png" alt="Wordcloud Example" width="600">
 
 
 ---
