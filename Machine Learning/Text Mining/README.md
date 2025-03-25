@@ -93,7 +93,8 @@ python script.py
 ✅ **해시태그가 별도로 보존되어 분석 결과에 반영됩니다.**  
 
 📌 **예제 워드클라우드**  
-![Wordcloud Example](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tag-cloud.svg/500px-Tag-cloud.svg.png)  
+<img src=r"C:\Users\User\Documents\업무\2023\DS\샤넬 워드클라우드 지원\wordcloud_241219_kkma_hashtag.png" alt="Wordcloud Example" width="600">
+
 
 ---
 
