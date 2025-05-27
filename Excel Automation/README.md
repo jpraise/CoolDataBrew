@@ -1,7 +1,7 @@
 
 # 📊 Fine Tune Guide - SEO Status Unpivoting Script
 
-이 저장소는 삼성전자 MX SEO 프로젝트의 SEO 상태 리포트를 *Unpivoting(세로화)*하여, 페이지별 점검 항목을 구조화된 형태로 가공하는 Python 스크립트를 포함하고 있습니다.  
+이 저장소는 SEO 상태 리포트를 Unpivoting(세로화)하여, 페이지별 점검 항목을 구조화된 형태로 가공하는 Python 스크립트를 포함하고 있습니다.  
 대상 엑셀 파일은 `SEO Status with Fine tune Guide.xlsx`, 결과 파일은 `Fine Tune Guide - Unpivoting Result - PD.xlsx`로 저장됩니다.
 
 ---
@@ -69,8 +69,6 @@ df = pd.read_excel(file_path, sheet_name=sheet_name, skiprows=6)
 
 ## 💾 출력 파일
 
-- 경로:  
-  `C:\Users\User\Documents\업무\2025\삼성전자 MX SEO\Fine Tune Guide\Fine Tune Guide - Unpivoting Result - PD.xlsx`
 - 출력 형태는 다음과 같습니다:
 
 | No. | Region | Country | Target URL | SEO Audit Element | Audit Standard | AS-IS (Issue) | Result | Action Necessity |
